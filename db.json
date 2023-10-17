@@ -1,0 +1,28 @@
+{
+  "assignments": [
+    {
+      "name": "Read Chapter 4",
+      "complete": false,
+      "id": 1,
+      "tag": "science"
+    },
+    {
+      "name": "Finish the project",
+      "complete": false,
+      "id": 2,
+      "tag": "math"
+    },
+    {
+      "name": "Take a test",
+      "complete": false,
+      "id": 3,
+      "tag": "math"
+    },
+    {
+      "name": "Watch Laracasts Tuto",
+      "complete": true,
+      "id": 4,
+      "tag": "Vue"
+    }
+  ]
+}
